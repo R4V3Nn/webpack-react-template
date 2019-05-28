@@ -8,7 +8,7 @@ const App = () => (
           React Template
 			</h1>
 			<h2>
-			Webpack, Babel, Eslint, React, Redux, SCSS
+			Webpack, Babel, ESlint, React, Redux, React-router, SCSS
 			</h2>
 		</div>
 	</div>
